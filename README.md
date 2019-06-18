@@ -10,7 +10,7 @@ Before the installation, please make sure that Python version is 2.6 or 2.7:
 ## Installation
 ### Get installation package with git:
 
-    git clone git@github.com:yeahzzz/py-expact.git
+    git clone git@github.com:yamcheung/py-expact.git
     
 ### Test with demo:
 
